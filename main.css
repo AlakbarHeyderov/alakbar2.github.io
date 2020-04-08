@@ -1,0 +1,303 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.navbar {
+	width: 100%;
+	height: 30px;
+}
+.navbar h1{
+	font-size: 22px;
+	padding-left: 115px;
+	padding-top: 3px;
+	float: left;
+}
+.navbar ul li{
+	font-size: 20px;
+	float: right;
+	padding-right: 38px;
+	padding-top: 3px;
+	list-style-type: none;
+}
+.sola{
+	padding-right: 115px;
+}
+.navbar a{
+	text-decoration-line: none;
+	color: #696969;
+}
+.img {
+	width: 100%;
+	height:400px;
+	background-image: url(https://poole.ncsu.edu/mac/wp-content/uploads/sites/18/2018/02/coffee-1869820_960_720.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	text-align: center;
+}
+.img h1{
+	text-align: center;
+	padding-top: 120px;
+	color:darkblue;
+	font-size: 50px;
+}
+.img p{
+	color:darkblue;
+}
+.img button{
+	width: 200px;
+	height: 30px;
+	margin-top: 40px;
+	background-color: blue;
+	border-style: none;
+	color:white;
+	border-radius: 30px;
+}
+.ucuncuhisse{
+	width: 100%;
+	height: 250px;
+	background-color: #F5F5F5;
+}
+.ucuncuhisse h1{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.ucuncuhisse ul li{
+	width: 150px;
+	height: 150px;
+	float: left;
+	list-style-type: none;
+}
+.noleft{
+	padding-left: 320px;
+}
+.left{
+	padding-left: 65px;
+}
+.aboutus{
+	width: 100%;
+	height: 400px;
+}
+.aboutus ul li{
+	float: left;
+}
+.aboutus p{
+	width: 70%;
+	height:46%;
+}
+.aboutus img{
+	width: 391px;
+	height: 320px;
+	float: right;
+	padding-top: 40px;
+	padding-right: 30px;
+}
+.aboutus hr{
+	width: 50px;
+	height: 3px;
+	background-color: blue;
+	border-color: blue;
+	margin-bottom: 15px;
+}
+.aboutsol{
+	width: 50%;
+	height: 348px;
+	float: right;
+	padding-top: 40px;
+}
+.aboutsol ul li{
+	float: left;
+	margin-right: 160px;
+	margin-top: 8px;
+}
+.aboutsol li{
+	margin-left: 18px;
+}
+.xidmetler{
+	width: 100%;
+	height: 540px;
+	background-color: #4169E1;
+}
+.xidmetler h1{
+	text-align: center;
+	padding-top: 40px;
+	color:white;
+}
+.xidmetler hr{
+	color:white;
+	width: 80px;
+	margin-left: 617px;
+	margin-bottom: 20px;
+}
+.ustp{
+	text-align: center;
+	color:white;
+	margin-bottom: 20px;
+}
+.xidmetler ul li{
+	width: 200px;
+	height: 200px;
+	float: left;
+	padding-left: 191px;
+	color:white;
+	text-align: center;
+	list-style-type: none;
+
+}
+.galery{
+	width: 100%;
+	height: 550px;
+	text-align: center;
+	padding-top: 20px;
+}
+.hrler{
+	width: 7%;
+	height: 3px;
+	color:darkblue;
+	border-color: darkblue;
+	background-color: blue;
+	margin-left: 621px;
+	margin-top: 5px;
+	margin-bottom: 7px;
+}
+.sekilucun{
+	width: 565px;
+	height: 400px;
+	margin-left: 371px;
+	margin-top: 20px;
+}
+.sekilucun img{
+	width: 188px;
+	height: 133px;
+	float: left;
+}
+.musterireyleri{
+	width: 100%;
+	height: 300px;
+	background-color: #F5F5F5;
+	text-align: center;
+	padding-top: 20px;
+}
+.komanda{
+	width: 100%;
+	height: 320px;
+	text-align: center;
+}
+.bizimkomanda ul li{
+	width: 210px;
+	height: 100px;
+	float: left;
+	padding-left: 113px;
+	text-align: left;
+	list-style-type: none;
+	margin-top: 25px;
+	text-align: center;
+}
+.bizimkomanda img{
+	width: 201px;
+	height: 150px;
+	float: left;
+}
+.musteriler ul li{
+	width: 210px;
+	height: 116px;
+	float: left;
+	padding-left: 191px;
+	text-align: left;
+	list-style-type: none;
+	margin-top: 25px;
+}
+.bizimkomanda p{
+	font-weight: bold;
+}
+.musteriler img{
+	width: 60px;
+	height: 60px;
+	float: left;
+	border-radius: 60px;
+	margin-right: 25px;
+}
+.musteriler p{
+	width: 330px;
+}
+.elaqe{
+	width: 100%;
+	height: 350px;
+	background-color: #4682B4;
+	color:white;
+	padding-top: 20px;
+}
+.muraciet{
+	width: 420px;
+	height: 100px;
+}
+.adsoyad{
+	width: 206px;
+	height: 22px;
+}
+.elaqe form{
+	padding-top: 45px;
+	padding-left: 110px;
+	float: left;
+}
+.elaqe h1{
+	padding-left: 110px;
+}
+.elaqe p{
+	padding-left: 110px;
+}
+.elaqe hr{
+	width: 70px;
+	height: 3px;
+	background-color: white;
+	border-color: white;
+	margin-left: 110px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	border-radius: 3px;
+}
+.butontesdiq{
+	width: 200px;
+	height: 40px;
+	border-radius: 40px;
+	margin-top: 30px;
+	color:white;
+	background-color: darkblue;
+	border-color: darkblue;
+}
+.sociall{
+	width: 50%;
+	height: 285px;
+	float: right;
+	font-size: 20px;
+}
+.qalin{
+	font-weight: bolder;
+	margin-top: 10px;
+}
+.birinci{
+	margin-bottom: 15px;
+}
+.sociallmedia{
+	width: 100%;
+	height: 70px;
+	background-color: #4682B4;
+}
+.iconlar img{
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	float: left;
+	padding-left: 5px;
+	margin-top: 5px;
+}
+.iconlar{
+	padding-left: 568px;
+	padding-top: /*5px;*/
+}
+.yekun{
+	width: 100%;
+	height: 20px;
+	text-align: center;
+}
